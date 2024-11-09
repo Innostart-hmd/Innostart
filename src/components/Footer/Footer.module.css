@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "banoo";
+  src: url("/public/fonts/Banoo.ttf");
+}
+
+.footerContainer {
+  background-color: #eee;
+  color: #014b68;
+  padding: 1rem;
+  margin-top: 1rem;
+}
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: #014b68;
+  font-family: "banoo";
+}
+.imgLogo {
+  width: 90px;
+  height: 90px;
+}
+p {
+  color: #014b68;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.address {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 1.5rem;
+}
+a {
+  all: unset;
+}

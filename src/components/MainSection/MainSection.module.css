@@ -1,0 +1,18 @@
+.searchContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search {
+  width: 90vw;
+}
+.cardContainer {
+  width: 90vw;
+  padding: 0.5rem 1rem;
+  border-radius: 0.3rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0.5rem 0;
+  color: honeydew;
+}
