@@ -16,3 +16,9 @@
   margin: 0.5rem 0;
   color: honeydew;
 }
+
+@media screen and (min-width: 768px) {
+  .searchContainer {
+    margin-top: 0.7rem;
+  }
+}

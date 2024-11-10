@@ -1,5 +1,5 @@
-import styles from "./Card.module.css";
 import { PiCaretLeftFill } from "react-icons/pi";
+import styles from "./Card.module.css";
 
 function Card({ data }) {
   return (
