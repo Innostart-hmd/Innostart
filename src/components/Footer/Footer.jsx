@@ -6,11 +6,7 @@ function Footer() {
     <>
       <div className={styles.footerContainer}>
         <div className={styles.logo}>
-          <img
-            src="/public/images/Logo.png"
-            alt="Logo"
-            className={styles.imgLogo}
-          />
+          <img src="/images/Logo.png" alt="Logo" className={styles.imgLogo} />
           <div className="d-flex flex-column justify-content-center align-items-center mt-1 mt-md-0 me-lg-2">
             <span>مرکز نوآوری شروع</span>
           </div>
