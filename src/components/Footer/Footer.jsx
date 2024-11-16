@@ -1,4 +1,5 @@
 import { FaTelegram, FaPhoneFlip, FaLocationDot } from "react-icons/fa6";
+import { IoPlanet } from "react-icons/io5";
 import styles from "./Footer.module.css";
 
 function Footer() {
@@ -21,6 +22,10 @@ function Footer() {
             <a href="https://t.me/innostart_hmd">
               کانال تلگرام: innostart_hmd@
             </a>
+          </span>
+          <span>
+            <IoPlanet style={{ marginLeft: "5px" }} />
+            <a href="https://innostart.ir/">وبسایت رسمی : www.innostart.ir</a>
           </span>
           <span>
             <FaLocationDot style={{ marginLeft: "5px" }} />
